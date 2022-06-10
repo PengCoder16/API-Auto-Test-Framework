@@ -1,0 +1,16 @@
+{
+  "name": "automation-framework",
+  "version": "1.0.0",
+  "description": "xendit trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.2.2",
+    "dotenv": "^16.0.1",
+    "pactum": "^3.1.9"
+  }
+}
